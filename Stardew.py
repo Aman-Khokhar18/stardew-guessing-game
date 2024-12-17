@@ -14,7 +14,7 @@ SCREEN_HEIGHT = 800
 
 # Create the screen
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Stardew Valley Screen")
+pygame.display.set_caption("Stardew Valley Guessing Game")
 
 # Load a Stardew Valley-like background image
 background_image = pygame.image.load("stardew_valley_background.png")
